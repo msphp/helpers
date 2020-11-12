@@ -1,0 +1,33 @@
+{
+  "name": "msphp/helpers",
+  "description": "A collection of helper functions for the MsPHP Framework",
+  "keywords": [
+    "msphp",
+    "framework",
+    "helpers"
+  ],
+  "homepage": "http://msphp.umtuwen.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Levine",
+      "email": "phplevine@gmail.com"
+    },
+    {
+      "name": "Sytlw",
+      "email": "dev@umtuwen.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/msphp/helpers/issues",
+    "source": "https://github.com/msphp/helpers"
+  },
+  "require": {
+      "php": ">=7.2"
+  },
+  "autoload": {
+      "files": [
+          "src/helpers.php"
+      ]
+  }
+}
